@@ -1,0 +1,31 @@
+no_referensi,user,tanggal,nama_masalah,nama_barang,harga,quantity
+1,nandini,2023-11-13 00:22:58.778770,flu batuk,tera f,2100,1
+2,nandini,2023-11-13 00:24:55.529527,pusing,grafadon,89000,5
+3,yaya,2023-11-13 00:34:32.632859,sakit perut,peptobismol,3300,5
+4,gogon,2023-11-14 11:08:03.382213,sakit perut,maalox,4100,2
+5,gogon,2023-11-14 11:14:24.156751,sakit gigi,antibiotik,25000,2
+6,gogon,2023-11-14 11:15:20.204952,flu batuk,mixagrip,1900,2
+7,gogon,2023-11-14 11:16:19.348462,flu batuk,tera f,2100,2
+8,gogon,2023-11-15 05:46:30.867961,sakit gigi,antibiotik,25000,5
+9,gogon,2023-11-15 06:30:10.356469,pusing,ibuprofen,8200,2
+10,gogon,2023-11-15 06:34:24.017144,diare,oralit,2000,2
+11,gogon,2023-11-15 06:36:11.868838,pusing,grafadon,89000,1
+12,gogon,2023-11-15 06:37:05.279814,flu batuk,demacolin,5600,3
+13,gogon,2023-11-15 06:37:37.240496,flu batuk,demacolin,5600,1
+14,nandini,2023-11-15 12:01:56.062822,sakit perut,promag,2300,2
+15,nandini,2023-11-15 12:58:23.317832,sakit gigi,asam mefenamat,4700,3
+16,nandini,2023-11-15 13:00:29.117507,sakit gigi,asam mefenamat,4700,2
+17,nandini,2023-11-15 13:10:33.383936,flu batuk,demacolin,5600,6
+18,nandini,2023-11-15 13:17:41.157767,sakit gigi,cataflam,2500,1
+19,nandini,2023-11-15 13:24:04.417409,diare,diatabs,7800,2
+20,nandini,2023-11-15 13:26:28.583083,pusing,grafadon,8900,3
+21,apis,2023-11-15 13:36:23.443276,flu batuk,demacolin,5600,12
+22,nandita,2023-11-15 17:49:46.554175,sakit perut,aknil tablet,9000,13
+23,nandini,2023-11-18 16:45:32.509812,sakit perut,promag,2300,2
+24,nandini,2023-11-18 17:12:45.958182,demam,sanmol,4900,1
+25,nandini,2023-11-18 20:00:11.956801,demam,panadol,5200,2
+26,nandini,2023-11-19 10:56:30.500613,diare,diapet,5000,1
+27,nandini,2023-11-19 11:00:33.756269,diare,diapet,5000,12
+28,nandini,2023-11-19 17:26:59.065693,pusing,paramex,2800,12
+29,nandini,2023-11-22 18:13:18.006885,sakit perut,maalox,4100,1
+30,apis,2023-11-22 18:36:29.201803,sakit gigi,cataflam,2500,2
